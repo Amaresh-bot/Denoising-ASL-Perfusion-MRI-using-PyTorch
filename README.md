@@ -20,7 +20,7 @@ This project applies deep learning models to denoise Arterial Spin Labeling (ASL
 
 | Original Input | U-Net Output | DilatedNet Output | DWAN Output |
 |----------------|--------------|-------------------|-------------|
-| ![input](Images/input_image.png) | ![unet](images/unet_output.png) | ![dilated](images/dilatednet_output.png) | ![dwan](Images/DWAN_image.png)|
+| ![input](Images/input_image.png) | ![unet](Images/U-Net_image.png) | ![dilated](Images/DilatedNet_image.png) | ![dwan](Images/DWAN_image.png)|
 
 ---
 
@@ -28,7 +28,7 @@ This project applies deep learning models to denoise Arterial Spin Labeling (ASL
 
 | Input (Zoomed) | U-Net (Zoomed) | DilatedNet (Zoomed) | DWAN (Zoomed) |
 |----------------|----------------|----------------------|----------------|
-| ![input_zoom](images/input_zoom.png) |
+| ![input_zoom](Images/Input(zoom).png) | ![unet_zoom](Images/U-Net_output(zoom).png) | ![dilated_zoom](Images/DilatedNet_output(zoom).png) | ![dwan_zooom](Images/DWAN_output(zoom).png)|
 
 ---
 
